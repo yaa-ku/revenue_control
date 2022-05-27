@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXOPylVZxq/ZLAlqqbkC1urZEDZ3sWhyl+wlb8EIlbnN5n7iBDmdbTcnFrocNaLyPyKCuo2WPn+OZiCz1DCfiw==",
+  "success": true,
+  "projectFilePath": "C:\\cursovaya_yaimp\\revenue_control\\revenue_control\\revenue_control.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HONOR\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.3\\microsoft.netcore.platforms.6.0.3.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.115.5\\stub.system.data.sqlite.core.netframework.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.data.sqlite\\1.0.115.5\\system.data.sqlite.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.115.5\\system.data.sqlite.ef6.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\HONOR\\.nuget\\packages\\system.data.sqlite.linq\\1.0.115.5\\system.data.sqlite.linq.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}

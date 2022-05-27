@@ -1,0 +1,53 @@
+D:\cursovaya yaimp\revenue_control\revenue_control\bin\Debug\revenue_control.exe.config
+D:\cursovaya yaimp\revenue_control\revenue_control\bin\Debug\revenue_control.exe
+D:\cursovaya yaimp\revenue_control\revenue_control\bin\Debug\revenue_control.pdb
+D:\cursovaya yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignColors.dll
+D:\cursovaya yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignColors.pdb
+D:\cursovaya yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\cursovaya yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.AssemblyReference.cache
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.SuggestedBindingRedirects.cache
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\App.g.cs
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control_MarkupCompile.cache
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control_MarkupCompile.lref
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\App.baml
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.g.resources
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.Properties.Resources.resources
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.GenerateResource.cache
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.CoreCompileInputs.cache
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.CopyComplete
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.exe
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.pdb
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\View\WindowAddNewTransaction.baml
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\View\MainWindow.g.cs
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\View\WindowAddNewTransaction.g.cs
+D:\cursovaya yaimp\revenue_control\revenue_control\obj\Debug\View\MainWindow.baml
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\revenue_control.exe.config
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\revenue_control.exe
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\revenue_control.pdb
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\EntityFramework.SqlServer.dll
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\EntityFramework.dll
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignColors.dll
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignColors.pdb
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\System.Data.SQLite.dll
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\System.Data.SQLite.EF6.dll
+C:\cursovaya_yaimp\revenue_control\revenue_control\bin\Debug\System.Data.SQLite.Linq.dll
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.AssemblyReference.cache
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.SuggestedBindingRedirects.cache
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\View\WindowAddNewTransaction.baml
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\View\MainWindow.g.cs
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\View\WindowAddNewTransaction.g.cs
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\App.g.cs
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control_MarkupCompile.cache
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control_MarkupCompile.lref
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\App.baml
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\View\MainWindow.baml
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.g.resources
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.Properties.Resources.resources
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.GenerateResource.cache
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.CoreCompileInputs.cache
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.csproj.CopyComplete
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.exe
+C:\cursovaya_yaimp\revenue_control\revenue_control\obj\Debug\revenue_control.pdb

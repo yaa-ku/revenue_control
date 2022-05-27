@@ -1,0 +1,61 @@
+﻿<Window x:Class="revenue_control.View.WindowAddNewTransaction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="WindowAddNewTransaction" Height="500" Width="400"
+        WindowStyle="None" AllowsTransparency="True" Background="Transparent">
+    <Grid>
+        <Border CornerRadius="70" Margin="0,10,0,10">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#d9ded8" Offset="1"/>
+                    <GradientStop Color="#ebc0fd" Offset="0.0"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <StackPanel>
+                <TextBlock Margin="45" FontSize="20" TextAlignment="Center" FontWeight="Black">
+                    Добавить новую транзакцию
+                </TextBlock>
+                <Line x:Name="line" Width="300" HorizontalAlignment="Center" Fill="{Binding ActualHeight, ElementName=line, Mode=OneWay}" ></Line>
+
+                <StackPanel Orientation="Horizontal" Margin="25 0">
+                    <TextBlock FontSize="16" Width="80">
+                        Категория:
+                    </TextBlock>
+                    <ComboBox Width="225" Margin="25 0" Effect="{DynamicResource MaterialDesignShadowDepth5}" Foreground="#FF050505" Style="{DynamicResource MaterialDesignComboBox}"></ComboBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="25 40">
+                    <TextBlock FontSize="16" Width="80">
+                        Название:
+                    </TextBlock>
+                    <TextBox  Width="225" Margin="25 0"></TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="25 0">
+                    <TextBlock FontSize="16" Width="80">
+                        Сумма:
+                    </TextBlock>
+                    <TextBox  Width="225" Margin="25 0"></TextBox>
+                </StackPanel>
+
+                <Button Margin="20 40 20 0" Height="50" FontSize="16">
+                    Добавить транзакцию
+                </Button>
+
+                <Button Margin="20 20" Height="50" FontSize="16" Click="Button_Click">
+                    Отмена
+                </Button>
+            </StackPanel>
+        </Border>
+
+
+
+
+
+    </Grid>
+</Window>
